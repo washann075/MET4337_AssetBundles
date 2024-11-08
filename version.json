@@ -1,0 +1,7 @@
+{
+  "bundles":[
+    {
+      "name": "model",
+      "version": "1.0"
+      "ur1": ""https://raw.githubusercontent.com/yourusername/your-repo/main/AssetBundles/mybundle""
+}
